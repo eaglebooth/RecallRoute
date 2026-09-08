@@ -2,6 +2,8 @@
 
 RecallRoute is a bounded GenLayer Intelligent Contract and web console for routing one synthetic e-bike battery model (`BAT-XR48`) against two authoritative recall notices.
 
+Live application: https://recallroute.vercel.app
+
 It answers one proof obligation: **does the exact, owner-accepted product identity fall inside the scope jointly stated by a byte-verified OEM notice and regulator notice?** The AI/validators return structured semantic relations; deterministic contract code derives `AFFECTED`, `NOT_AFFECTED`, or `MANUAL_REVIEW`.
 
 > Demo only. The fixtures are synthetic and this software does not replace official manufacturer or regulator safety guidance.
