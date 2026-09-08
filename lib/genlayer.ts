@@ -19,7 +19,7 @@ type RuntimeClient = {
 };
 
 export type ChainResult = { success: boolean; data?: unknown; hash?: string; error?: string; transaction?: Record<string, unknown> };
-export const contractAddress = () => process.env.NEXT_PUBLIC_CONTRACT_ADDRESS || "";
+export const contractAddress = () => process.env.NEXT_PUBLIC_CONTRACT_ADDRESS || "0x68548Cbff3f0484DA738614A492BACF16B8EE672";
 export const explorerUrl = () => `${process.env.NEXT_PUBLIC_EXPLORER_BASE || "https://explorer-studio.genlayer.com/address/"}${contractAddress()}`;
 export const txUrl = (hash: string) => `${process.env.NEXT_PUBLIC_EXPLORER_TX_BASE || "https://explorer-studio.genlayer.com/tx/"}${hash}`;
 const journalKey = () => `recallroute:pending:${network}:${contractAddress().toLowerCase()}`;

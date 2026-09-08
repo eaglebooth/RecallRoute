@@ -25,6 +25,14 @@ npm run dev
 
 Copy `.env.example` to `.env.local` after deployment and set `NEXT_PUBLIC_CONTRACT_ADDRESS`.
 
+## Studionet deployment
+
+- Contract: `0x68548Cbff3f0484DA738614A492BACF16B8EE672`
+- Explorer: https://explorer-studio.genlayer.com/address/0x68548Cbff3f0484DA738614A492BACF16B8EE672
+- Fixture commit: `3b46b66e90d9d96e0a6f8b887374a427cc0497d5`
+
+The two-wallet live suite finalized `AFFECTED / REPLACE / STOP_USE`, `NOT_AFFECTED`, and conflicting-source `MANUAL_REVIEW` routes. It also verified finalized rollback for a wrong dossier digest and an unavailable regulator source. Full evidence is in [docs/release-evidence.md](docs/release-evidence.md).
+
 ## Contract methods
 
 Writes: `create_case`, `add_notice`, `seal_case`, `accept_case`, `assess_case`, `finalize_case`, `expire_to_manual_review`, `cancel_draft`.
