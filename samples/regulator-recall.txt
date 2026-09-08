@@ -1,0 +1,7 @@
+SYNTHETIC REGULATOR SAFETY BULLETIN GL-RR-48 — DEMO ONLY
+Authority: Demo Product Safety Directorate
+Revision: GL-RR-48-R1
+
+The authority confirms the recall of BAT-XR48 battery packs in batch NS-24-Q2, serial range XR48001000–XR48001999, distributed in DEMO-EU from 2026-01-01 through 2026-06-30. Owners must stop using affected packs and seek replacement.
+
+Unique citation: RR48-REGULATOR-SCOPE-2026

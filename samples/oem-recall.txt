@@ -1,0 +1,10 @@
+SYNTHETIC OEM RECALL NOTICE RR-48 — DEMO ONLY
+Publisher: Northstar Mobility Safety Office
+Revision: RR-48-R1
+
+Scope: BAT-XR48 battery packs from batch NS-24-Q2 with serial numbers XR48001000 through XR48001999, sold in DEMO-EU between 2026-01-01 and 2026-06-30.
+Hazard: A separator defect may cause thermal runaway during charging.
+Immediate action: STOP_USE.
+Remedy: REPLACE through an authorized demo service center.
+
+Unique citation: RR48-OEM-SCOPE-2026

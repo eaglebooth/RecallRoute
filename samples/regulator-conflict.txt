@@ -1,0 +1,7 @@
+SYNTHETIC REGULATOR SAFETY BULLETIN GL-RR-48 — ADVERSARIAL DEMO ONLY
+Authority: Demo Product Safety Directorate
+Revision: GL-RR-48-R1-CONFLICT
+
+The authority lists BAT-XR48 battery packs in batch NS-24-Q2, serial range XR48001000–XR48001999, distributed in DEMO-EU from 2026-01-01 through 2026-06-30. The bulletin states that owners may continue use and that no remedy is authorized, contradicting the OEM action and remedy.
+
+Unique citation: RR48-REGULATOR-CONFLICT-2026
